@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "7c8aa6a6c7b3ad1003a3ec67",
+  "owner": "geubjhv",
+  "repo": "page-255cc6efe2d7a8caf9897a37",
+  "title": "VC喵",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "255cc6efe2d7a8caf9897a37",
+      "a": "VC喵",
+      "b": "",
+      "entity": "VC喵",
+      "brand": "VC喵",
+      "separator": "",
+      "path": "index.html",
+      "hash": "b602b170fb77698e63a70a2e231ae7b82a2b39bee296e57bcb058e50d2a41c4e",
+      "content": {
+        "keyword1": "VC喵",
+        "keyword2": "",
+        "primary_entity": "VC喵",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "VC喵提供高性价比机场订阅与VPN网络加速服务，涵盖基础到团队多套餐，支持多设备与全平台客户端下载，助力稳定访问与流媒体体验。欢迎访问VC喵官方网站获取下载与使用说明。",
+          "AI_DESCRIPTION": "VC喵提供高性价比机场订阅与VPN网络加速服务，涵盖基础到团队多套餐，支持多设备与全平台客户端下载，助力稳定访问与流媒体体验。欢迎访问VC喵官方网站获取下载与使用说明。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>:root{--bg:#F6F1E7;--green:#1B4332;--g2:#2D6A4F;--g3:#40916C;--cream:#FAF8F2;--text:#081C15;--mut:#345E42;--card:#FFFEFB;--bd:#C5D5C8;}*{box-sizing:border-box;margin:0;padding:0;}body{background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,\"Segoe UI\",\"PingFang SC\",\"Microsoft YaHei\",sans-serif;font-size:16px;line-height:1.7;overflow-x:hidden;}a{color:var(--g2);text-decoration:none;}a:hover{text-decoration:underline;}.wrap{max-width:1040px;margin:0 auto;padding:0 18px;}header{background:var(--green);color:var(--cream);padding:14px 0;}header .wrap{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px;}.brand{font-weight:700;font-size:1.25rem;letter-spacing:.04em;}nav{display:flex;flex-wrap:wrap;gap:10px 16px;font-size:.95rem;}nav a{color:var(--cream);}main{padding-bottom:2rem;}h1{font-size:2.05rem;color:var(--green);margin:1.8rem 0 .4rem;line-height:1.25;}.lead{font-size:1.08rem;color:var(--mut);margin-bottom:1.5rem;}h2{font-size:1.45rem;color:var(--green);margin:2.2rem 0 .9rem;padding-bottom:.35rem;border-bottom:3px solid var(--g3);}h3{font-size:1.12rem;color:var(--g2);margin:1.1rem 0 .45rem;}p,ul,ol{margin-bottom:.85rem;}ul,ol{padding-left:1.2rem;}.stagger{display:flex;flex-direction:column;gap:1.2rem;margin:1.4rem 0;}.block{background:var(--card);border:1px solid var(--bd);border-radius:10px;padding:1.15rem 1.2rem;}.tint{background:#E7F2EB;border-color:#B7D4C2;}.plans{display:flex;flex-wrap:wrap;gap:14px;margin:1rem 0 1.5rem;}.plan{flex:1 1 250px;background:var(--card);border:1px solid var(--bd);border-radius:10px;padding:1.2rem;}.plan.feat{border:3px solid var(--g2);background:#EAF6EE;}.price{font-size:1.35rem;font-weight:700;color:var(--green);margin:.3rem 0;}.annual{font-size:.9rem;color:var(--mut);}.plan ul{margin:.6rem 0 0;font-size:.95rem;}.faq-wrap{background:#E4F0E8;border-radius:12px;padding:1.2rem 1rem 1.6rem;margin:1.5rem 0;}details{background:var(--cream);border:1px solid var(--bd);border-radius:8px;margin:0 0 10px;padding:.55rem .9rem;}summary{font-weight:600;color:var(--green);padding:.2rem 0;}details p{margin:.5rem 0 .2rem;color:var(--text);}.clients{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:1rem;}.clients a{display:inline-block;background:var(--green);color:var(--cream);padding:.45rem .8rem;border-radius:6px;font-size:.9rem;}.clients a:hover{background:var(--g2);text-decoration:none;}aside.ad{background:#FFF8E7;border:1px dashed var(--g3);border-radius:8px;padding:1rem;margin:1.5rem 0;text-align:center;}.friends{display:flex;flex-wrap:wrap;gap:8px 14px;margin:.6rem 0;}footer{background:var(--green);color:#D8F3DC;padding:1.8rem 0;margin-top:1rem;font-size:.88rem;}footer a{color:#95D5B2;}.map{margin:.8rem 0;display:flex;flex-wrap:wrap;gap:8px 12px;}@media (min-width:760px){.stagger{flex-direction:row;align-items:stretch;}.stagger.rev{flex-direction:row-reverse;}.stagger>*{flex:1;}h1{font-size:2.35rem;}}</style><header><div class=\"wrap\"><span class=\"brand\">VC喵</span><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#guide\">使用说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></div></header><main><div class=\"wrap\"><h1>VC喵</h1><p class=\"lead\">官方网站 · 机场订阅 · VPN 网络加速与全平台客户端下载</p><section id=\"intro\"><h2>VC喵品牌简介</h2><div class=\"stagger\"><div class=\"block\"><p>VC喵是面向个人与小团队的机场订阅服务，核心能力是把稳定的跨境网络加速做成可随时导入的订阅。用户完成套餐选择后，即可在常用 VPN 客户端中一键更新节点，用于日常访问、视频娱乐和游戏加速。</p><p>我们强调线路可用性与说明透明度：基础版覆盖常规浏览与基础流媒体，旗舰版增加原生解锁与 IPLC 游戏向优化，团队版面向多设备与定制路由。本站为 VC喵官网信息页，集中提供套餐对照、操作步骤和客户端下载指引。</p></div><div class=\"block tint\"><h3>服务要点</h3><ul><li>订阅制机场，节点池随套餐分级</li><li>支持主流 Clash / V2Ray 系客户端</li><li>按月流量与同时在线设备数清晰标注</li><li>官网仅作说明与下载导航，请通过正规渠道获取订阅</li></ul></div></div></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"stagger rev\"><div class=\"block tint\"><h3>流媒体与内容访问</h3><p>观看海外平台时，线路质量比单纯能连上更重要。旗舰版标注全节点原生流媒体解锁，适合对 Netflix、Disney+ 等有稳定需求的用户；基础版提供基础解锁，满足轻度使用。</p></div><div class=\"block\"><h3>办公学习与资料检索</h3><p>远程会议、文献数据库、协作文档往往对延迟和丢包敏感。选择靠近目标地区的节点，并控制同时在线设备，可减少会话中断。团队版提供更高带宽节点与定制路由，方便小团队统一出口。</p></div></div><div class=\"stagger\"><div class=\"block\"><h3>游戏加速</h3><p>旗舰版含 IPLC 专线游戏加速优化，适合对延迟抖动有要求的对战与开放世界类游戏。实际体验仍取决于所在网络与所选节点，建议在客户端中对比延迟后再固定使用。</p></div><div class=\"block tint\"><h3>差旅与多设备</h3><p>手机、电脑、平板同时需要加速时，请对照套餐设备上限：基础版 3 台、旗舰版 5 台、团队版 20 台。超出后可能挤占带宽或无法认证，合理规划更稳妥。</p></div></div></section><section id=\"plans\"><h2>套餐方案</h2><p>以下为当前展示套餐，流量均为每月极速流量额度，到期可续费。按年付可降低月均费用。具体开通以订阅后台为准。</p><div class=\"plans\"><div class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"plan feat\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div></section><section id=\"guide\"><h2>操作说明</h2><div class=\"stagger\"><div class=\"block\"><h3>获取订阅</h3><p>在官方渠道选定套餐并完成支付后，用户中心会生成专属订阅链接（通常为 Clash 或通用订阅地址）。请妥善保存，不要公开分享，以免流量被盗用或订阅被重置。</p><h3>安装客户端</h3><p>根据系统选择下方推荐客户端。Windows 常用 v2rayN 或 Clash Verge；macOS 可用 ClashX.Meta；Android 可用 Clash Meta for Android；iOS 需使用可用商店中的 Shadowrocket、Stash 等，本站不提供安装包文件。</p></div><div class=\"block tint\"><h3>导入与连接</h3><ol><li>打开客户端，找到订阅、Profile 或配置入口。</li><li>粘贴 VC喵 提供的订阅 URL，命名后更新。</li><li>等待节点列表刷新，按延迟或地区筛选。</li><li>选择节点并启用系统代理或 TUN 模式。</li><li>访问目标站点验证；若失败可切换节点或检查本地防火墙。</li></ol><p>游戏用户建议优先尝试标注 IPLC 或游戏优化的节点，并关闭不必要的拦截规则。</p></div></div></section><section id=\"download\"><h2>客户端下载</h2><p>VC喵官网下载指引只推荐开源或广泛使用的客户端，请从开发者或可信发布页获取安装包，导入本站订阅即可作为加速器使用。切勿下载来路不明的捆绑软件。</p><p class=\"clients\"><a href=\"#download\">Windows 客户端指引</a><a href=\"#download\">macOS 客户端指引</a><a href=\"#download\">Android 客户端指引</a><a href=\"#download\">iOS 客户端指引</a><a href=\"#guide\">查看导入步骤</a></p><ul><li>Windows：Clash Verge Rev / v2rayN，支持系统代理与 TUN。</li><li>macOS：ClashX Meta 或 Clash Verge，注意授权网络扩展。</li><li>Android：Clash Meta、NekoBox，建议关闭电池优化。</li><li>iOS / iPadOS：Shadowrocket、Quantumult X、Stash，需自行准备商店账号。</li><li>路由器 / 软路由：可使用订阅在 OpenWrt 等环境转换，团队版更适合集中部署。</li></ul></section><section id=\"faq\"><h2>常见问题</h2><div class=\"faq-wrap\"><p>以下问题覆盖购买、客户端、流量与解锁等日常咨询。展开即可阅读说明。若仍未解决，旗舰与团队用户可走优先工单。</p><details><summary>VC喵是机场还是传统 VPN 客户端？</summary><p>VC喵以机场订阅为主：我们提供节点与订阅链接，您在自己的客户端里使用。它具备 VPN、梯子、网络加速器的效果，但安装包来自各平台常用客户端，而不是单一封闭应用。这样更新节点更快，也方便按套餐切换。</p></details><details><summary>如何从官网完成客户端下载并开始加速？</summary><p>先确认套餐并拿到订阅地址，再根据设备打开本页「客户端下载」选择对应系统的推荐软件。安装后粘贴订阅、更新节点、开启代理即可。本站不托管安装文件，这是更安全的官网下载方式。</p></details><details><summary>三个套餐该怎么选？流量不够怎么办？</summary><p>轻度浏览与偶尔视频选基础版（100GB / 3 设备）。经常高清或需要原生解锁、游戏 IPLC 选旗舰版（300GB / 5 设备）。多人共用或长期在线选团队版（1000GB / 20 设备）。流量按套餐周期重置，用尽后通常需等待下一周期或升级套餐，具体以后台提示为准。</p></details><details><summary>能否解锁 Netflix、Disney+ 等流媒体？</summary><p>基础版提供基础流媒体解锁，部分片库可能受节点质量影响。旗舰版强调全节点原生流媒体解锁，成功率更高。任何机场都无法承诺永久百分之百解锁，请以实际测试为准，必要时更换节点。</p></details><details><summary>游戏延迟高或容易掉线怎么处理？</summary><p>优先使用旗舰版 IPLC 或游戏向节点，在客户端里选延迟最低且丢包少的条目。关闭其他占用带宽的下载，尽量用有线或稳定 Wi-Fi。若仍不稳定，提交工单并附上节点名与测试时间，优先支持通道会协助排查。</p></details><details><summary>可以在多少台设备同时在线？家庭成员能共用吗？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台同时在线。家庭共用可以，但请勿把订阅链接发到公开群组。同一订阅在过多设备登录可能触发限制。团队版适合工作室或宿舍等集中场景，并支持定制路由需求。</p></details><details><summary>订阅链接泄露或无法更新节点怎么办？</summary><p>立即在用户中心重置订阅链接，旧地址会失效。客户端里删除旧配置再添加新链接。若更新失败，检查是否开启了阻止订阅请求的规则，或尝试更换网络后更新。请只通过本站公布的入口核对官方身份，避免钓鱼站点。</p></details><details><summary>年付如何计算？下单前要注意什么？</summary><p>年付价格为基础月费约十个月（基础 ¥150/年、旗舰 ¥350/年、团队 ¥850/年）。虚拟网络加速服务在开通节点后通常不支持无理由全额退款，规则以购买时展示的条款为准。下单前请确认设备数量、流量与解锁需求。</p></details></div></section><aside class=\"ad\" id=\"ads\"><p><strong>合作展示</strong> VC喵官网可投放网络工具、云服务与跨境办公相关信息。本区域为展示位，不代表对第三方产品的担保。</p></aside><section id=\"links\"><h2>友情链接</h2><p>以下为相关阅读与工具导航，全部指向本页锚点，便于单页浏览。</p><div class=\"friends\"><a href=\"#guide\">客户端配置指南</a><a href=\"#download\">加速器下载入口</a><a href=\"#plans\">套餐对照表</a><a href=\"#faq\">梯子常见疑问</a><a href=\"#scenes\">网络加速场景</a><a href=\"#intro\">品牌与官网说明</a></div></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>VC喵官方网站提供机场订阅说明、VPN 网络加速介绍与客户端下载指引。</p><p class=\"map\">网站地图： <a href=\"#intro\">品牌简介</a> <a href=\"#scenes\">使用场景</a> <a href=\"#plans\">套餐方案</a> <a href=\"#guide\">操作说明</a> <a href=\"#download\">客户端下载</a> <a href=\"#faq\">常见问题</a> <a href=\"#ads\">合作展示</a> <a href=\"#links\">友情链接</a></p><p>© VC喵 保留说明文档权利。节点与解锁效果随网络环境变化，请以实际连接为准。请遵守所在地法律法规使用网络加速服务。</p></div></footer>",
+          "hash": "b32604fb9331b3784e082a8723f507157c74b3202dd7ead6789f34f553d0e7f4",
+          "seo": {
+            "title": "VC喵官网 | 机场VPN客户端下载与网络加速梯子",
+            "keywords": "VC喵,VC喵机场,VC喵VPN,VC喵官网,机场订阅,VPN加速器,客户端下载,网络梯子,流媒体解锁,IPLC加速",
+            "description": "VC喵提供高性价比机场订阅与VPN网络加速服务，涵盖基础到团队多套餐，支持多设备与全平台客户端下载，助力稳定访问与流媒体体验。欢迎访问VC喵官方网站获取下载与使用说明。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "towctro.cn",
+    "host": "p-06ca33fe2e.towctro.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "towctro.cn",
+      "url": "https://towctro.cn/",
+      "label": "云图小镇",
+      "apex": "towctro.cn",
+      "kind": null,
+      "identity": "dytj76/page-4745d66207363001b81eeacb"
+    },
+    {
+      "host": "knjyn.cn",
+      "url": "https://knjyn.cn/",
+      "label": "VC喵",
+      "apex": "knjyn.cn",
+      "kind": null,
+      "identity": "vwuubtacf/page-cf9d7db660d733f250e0b1b1"
+    },
+    {
+      "host": "knlyh.cn",
+      "url": "https://knlyh.cn/",
+      "label": "VC喵",
+      "apex": "knlyh.cn",
+      "kind": null,
+      "identity": "nqbpeguetu/page-0bbb6f6bc71fc03faed0500d"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "28b49799606cb4c4104cdde1cad025fadee1f5df5445ac16349dfb0eeb62b5d2",
+    "sitemap.xml": "e55918888e3f5e402411f56bbc237d382ba4af76bb0c6a630fd8cb89e7b9857e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "87acfec9c71362d00027d227860a105c22240e1b9b2f1fc79cd417e1b2655b78",
+    "robots.txt": "4380dca88a557df2ab066f5b253c29778c8a3450bb2a2c1caf532d96e7e93493",
+    "071dfae37b0f1322197eff3bcf2215b2.txt": "23cae7dc8724b2de3cb030d69e4fbeadf10997f5e41a0b66444c68c548938291"
+  },
+  "revision": "dffa4f85e31612bea5a7b082c7de139c7d3ea0225d045c69f2a08c089b9051e3"
+}
